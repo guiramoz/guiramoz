@@ -48,18 +48,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">Stats in GitHub</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/guiramoz/guiramoz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/guiramoz/guiramoz/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/guiramoz/guiramoz/activity-graph-output/activity-graph.svg?radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <p data-importer="text" align="left"></p>
 
 ###
