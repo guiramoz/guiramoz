@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI</p>
+<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Moro em São Bernardo do Campo<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e a terceira série do Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI</p>
 
 ###
 
@@ -52,6 +52,14 @@
 
 ###
 
+<h2 data-importer="text" align="left">Meus projetos:</h2>
+
+###
+
+<p data-importer="text" align="left">• Engenharia de Prompt com ChatGPT<br>• IA de Churn<br>• IA de Automação de RH<br>• IA Aplicada à Qualidade de Software <br>• IA para triagem de suporte de TI<br>• IA de Porteiro Eletrônico Inteligente com Visão Computacional<br>• Projeto web de TCC com backEnd em PHP<br><br>Obs: Muitos desses projetos foram desenvolvidos com conhecimentos adquiridos ao longo de meus cursos no SENAI.</p>
+
+###
+
 <h2 data-importer="text" align="left">Redes Socias e Contato</h2>
 
 ###
@@ -69,18 +77,3 @@
 </div>
 
 ###
-
-<!--
-**guiramoz/guiramoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
