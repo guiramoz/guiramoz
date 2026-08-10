@@ -58,7 +58,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Engenharia de Prompt com ChatGPT<br>• IA de Churn<br>• IA de Automação de RH<br>• IA Aplicada à Qualidade de Software <br>• IA para triagem de suporte de TI<br>• IA de Porteiro Eletrônico Inteligente com Visão Computacional<br>• Projeto web de TCC com backEnd em PHP<br><br>Obs: Muitos desses projetos foram desenvolvidos com conhecimentos adquiridos ao longo de meus cursos no SENAI.</p>
+<p data-importer="text" align="left">• Engenharia de Prompt com ChatGPT<br>• IA de Churn: <a href="https://ia-churn-machine-learning-ftlxduf42aeh26umt3wmyc.streamlit.app/">Acesse Aqui</a><br>• IA de Automação de RH<br>• IA Aplicada à Qualidade de Software <br>• IA para triagem de suporte de TI<br>• IA de Porteiro Eletrônico Inteligente com Visão Computacional<br>• Projeto web de TCC com backEnd em PHP<br><br>Obs: Muitos desses projetos foram desenvolvidos com conhecimentos adquiridos ao longo de meus cursos no SENAI.</p>
 
 ###
 
