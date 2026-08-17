@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Moro em São Bernardo do Campo<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e a terceira série do Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI<br>• TOEFL Júnior</p>
+<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Moro em São Bernardo do Campo<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e a terceira série do Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Técnico de Informática para Internet - ETEC<br>• Programação em Java Script - 60h - SENAI <br>• Fundamentos do Python 1 - 40h - SENAI<br>• Fundamentos do Python 1 - 40h - CISCO<br>• Programação em IA Generativa - 40h - SENAI<br>• Programação em IA Generativa ChatGpt - 48h - SENAI</p>
+<p data-importer="text" align="left">• Técnico de Informática para Internet - ETEC<br>• Programação em Java Script - 60h - SENAI <br>• Fundamentos do Python 1 - 40h - SENAI<br>• Fundamentos do Python 1 - 40h - CISCO<br>• Programação em IA Generativa - 40h - SENAI<br>• Programação em IA Generativa ChatGpt - 48h - SENAI<br>• TOEFL Júnior</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Engenharia de Prompt com ChatGPT: <a href="https://guiramoz.github.io/Engenharia-de-Prompt-ChatGPT/">Acesse Aqui</a><br>• IA de Churn: <a href="https://ia-churn-machine-learning-ftlxduf42aeh26umt3wmyc.streamlit.app/">Acesse Aqui</a><br>• IA de Automação de RH<br>• IA Aplicada à Qualidade de Software: <a href="https://guiramoz.github.io/IA-Aplicada-a-Qualidade-de-Software/">Acesse Aqui</a> <br>• IA para triagem de suporte de TI: <a href="https://requirementstxt-cc445bppetwefvbjsqyz2b.streamlit.app/">Acesse Aqui</a><br>• IA de Porteiro Eletrônico Inteligente com Visão Computacional<br>• Landing page com BackEnd em PHP, validações e requisições em JS: <a href="https://guiramoz.github.io/Landing-Page-FullStack-PHP-JS"/>Acesse Aqui </a>(banco de dados apenas local)<br>Obs: Muitos desses projetos foram desenvolvidos com conhecimentos adquiridos ao longo de meus cursos no SENAI.</p>
+<p data-importer="text" align="left">• Engenharia de Prompt com ChatGPT: <a href="https://guiramoz.github.io/Engenharia-de-Prompt-ChatGPT/">Acesse Aqui</a><br>• IA de Churn: <a href="https://ia-churn-machine-learning-ftlxduf42aeh26umt3wmyc.streamlit.app/">Acesse Aqui</a><br>• IA de Automação de RH<br>• IA Aplicada à Qualidade de Software: <a href="https://guiramoz.github.io/IA-Aplicada-a-Qualidade-de-Software/">Acesse Aqui</a> <br>• IA para triagem de suporte de TI: <a href="https://requirementstxt-cc445bppetwefvbjsqyz2b.streamlit.app/">Acesse Aqui</a><br>• IA de Porteiro Eletrônico Inteligente com Visão Computacional<br>• Landing page com BackEnd em PHP, validações e requisições em JS: <a href="https://guiramoz.github.io/Landing-Page-FullStack-PHP-JS"/>Acesse Aqui </a>(banco de dados apenas local)<br><br>Obs: Muitos desses projetos foram desenvolvidos com conhecimentos adquiridos ao longo de meus cursos no SENAI.</p>
 
 ###
 
