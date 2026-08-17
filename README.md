@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Moro em São Bernardo do Campo<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e a terceira série do Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI</p>
+<p data-importer="text" align="left">• Me chamo Guilherme Ramos Nogueira<br>• Moro em São Bernardo do Campo<br>• Gosto Muito de tecnologia e busco sempre evoluir dentro da área <br>• Atualmente estou cursando Técnico de Informática para Internet e a terceira série do Ensino Médio<br>• Ano que vem inicio a minha graduação em Ciências da Computação pela FEI<br>• TOEFL Júnior</p>
 
 ###
 
