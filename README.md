@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Técnico de Informática para Internet - ETEC<br>• Programação em Java Script - 60h - SENAI <br>• Fundamentos do Python 1 - 40h - SENAI<br>• Fundamentos do Python 1 - 40h - CISCO<br>• Programação em IA Generativa - 40h - SENAI<br>• Programação em IA Generativa ChatGpt - 48h - SENAI<br>• TOEFL Júnior</p>
+<p data-importer="text" align="left">• Técnico de Informática para Internet - ETEC<br>• Programação em Java Script - 60h - SENAI <br>• Fundamentos do Python 1 - 40h - SENAI<br>• Fundamentos do Python 1 - 40h - CISCO<br>• Programação em IA Generativa - 40h - SENAI<br>• Programação em IA Generativa ChatGpt - 48h - SENAI<br>• TOEFL Júnior 2023</p>
 
 ###
 
